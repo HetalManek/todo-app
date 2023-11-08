@@ -10,7 +10,6 @@ step 1 : intstall node modules using `npm install`.
 step 2 : Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## json-server
-Make sure to run following command:
 step 3 : Run `npm run json-server ` for a json-server. Navigate to `http://localhost:3000/`. This is for db.json
 
 ## Usage
@@ -22,7 +21,10 @@ TaskBlitz provides the following functionalities:
 Login: To access the app, use the following credentials:
 
 E-mail: admin@gmail.com
+
 Password: admin@123
+
+
 Register: New users can create an account by providing necessary details.
 
 Forgot Password: Users can reset their password if forgotten, by following the "Forgot Password" link on the login page.
